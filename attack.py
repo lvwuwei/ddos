@@ -107,7 +107,7 @@ def parse_parameters(parameters):
 					num_thread = arg
 				else:
 					usage()
-	except getopt.GetoptError:  
+	except getopt.GetoptError:
 		print("getopt error!");  
 		usage();  
 		sys.exit(1);
