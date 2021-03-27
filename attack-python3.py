@@ -1,7 +1,7 @@
 #/usr/bin/python
-
+# for python3
 # function : ddos tools
-# author   : firefoxbug
+# author   : h4ckg3h2y1
 
 import os
 import re
