@@ -5,7 +5,7 @@ DDOS tool in python.
 
 =============== usage =============
 
-python attack.py [option] http://www.firefoxbug.net/
+python attack.py [option] http://www.byy3.com
 
     -h : help
 
