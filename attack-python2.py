@@ -1,5 +1,5 @@
 #/usr/bin/python
-
+# for python2
 # function : ddos tools
 # author   : firefoxbug
 
